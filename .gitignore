@@ -1,0 +1,5 @@
+#ignored files
+.DS_Store
+.obsidian
+*-info-cache
+*-backups
