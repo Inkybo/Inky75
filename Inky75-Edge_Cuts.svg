@@ -29,6 +29,18 @@
   <defs
      id="defs1432">
     <rect
+       x="287.65848"
+       y="855.40827"
+       width="199.18405"
+       height="86.227595"
+       id="rect6112" />
+    <rect
+       x="267.16184"
+       y="877.14196"
+       width="225.39317"
+       height="104.81571"
+       id="rect5695" />
+    <rect
        x="239.35104"
        y="233.80259"
        width="1218.2082"
@@ -3406,6 +3418,42 @@
        width="66.02623"
        height="52.974537"
        id="rect2607" />
+    <rect
+       x="43"
+       y="36.900002"
+       width="38.799999"
+       height="50.400002"
+       id="rect868-5-5-1-6-27-7-4-2-7" />
+    <rect
+       x="244.50002"
+       y="36.900002"
+       width="41.700001"
+       height="50.400002"
+       id="rect1288-1-5-95-8-3-7-4-0-7" />
+    <rect
+       x="241.32214"
+       y="45.325649"
+       width="24.208918"
+       height="19.968939"
+       id="rect1294-3-6-7-13-96-6-0-6-4" />
+    <rect
+       x="244.50002"
+       y="36.900002"
+       width="41.700001"
+       height="50.400002"
+       id="rect1300-9-3-6-8-4-5-5-1-4" />
+    <rect
+       x="318.79614"
+       y="27.619204"
+       width="75.805901"
+       height="84.326714"
+       id="rect1187-7-2-8-0-9-19-9-5-9" />
+    <rect
+       x="492.31769"
+       y="124.95081"
+       width="66.02623"
+       height="52.974537"
+       id="rect1889-3-6-5-81-2-9-7-4-1" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -3427,11 +3475,11 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:zoom="0.70963874"
-     inkscape:cx="683.44634"
-     inkscape:cy="450.22909"
+     inkscape:zoom="2.1735249"
+     inkscape:cx="288.01143"
+     inkscape:cy="364.15502"
      inkscape:window-x="1920"
-     inkscape:window-y="23"
+     inkscape:window-y="24"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1428"
      inkscape:document-rotation="0"
@@ -3488,6 +3536,26 @@
        position="2.1665237e+08,1.6207322e+08"
        orientation="0,-1"
        id="guide55024"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="85534999,93715161"
+       orientation="0,-1"
+       id="guide5874"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="73742490,2.3201506e+08"
+       orientation="0,-1"
+       id="guide5876"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0261615e+08,69960858"
+       orientation="0,-1"
+       id="guide6122"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0261615e+08,59489604"
+       orientation="0,-1"
+       id="guide6124"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <title
@@ -5737,7 +5805,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77483">I</tspan></text>
+             id="tspan8531">I</tspan></text>
       </g>
     </g>
     <g
@@ -5774,7 +5842,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77485">I</tspan></text>
+           id="tspan8533">I</tspan></text>
     </g>
     <g
        id="layer4"
@@ -5888,7 +5956,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77487">I</tspan></text>
+             id="tspan8535">I</tspan></text>
       </g>
     </g>
     <g
@@ -5925,7 +5993,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77489">I</tspan></text>
+           id="tspan8537">I</tspan></text>
     </g>
     <g
        id="layer4-6-9"
@@ -6039,7 +6107,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-5);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77491">I</tspan></text>
+             id="tspan8539">I</tspan></text>
       </g>
     </g>
     <g
@@ -6076,7 +6144,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77493">I</tspan></text>
+           id="tspan8541">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-7"
@@ -6190,7 +6258,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-2);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77495">I</tspan></text>
+             id="tspan8543">I</tspan></text>
       </g>
     </g>
     <g
@@ -6227,7 +6295,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77497">I</tspan></text>
+           id="tspan8545">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-0"
@@ -6341,7 +6409,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-5-4);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77499">I</tspan></text>
+             id="tspan8547">I</tspan></text>
       </g>
     </g>
     <g
@@ -6378,7 +6446,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77501">I</tspan></text>
+           id="tspan8549">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-7-2"
@@ -6492,7 +6560,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-5-4-1);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77503">I</tspan></text>
+             id="tspan8551">I</tspan></text>
       </g>
     </g>
     <g
@@ -6529,7 +6597,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77505">I</tspan></text>
+           id="tspan8553">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-7-2-6"
@@ -6643,7 +6711,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-5-4-1-1);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77507">I</tspan></text>
+             id="tspan8555">I</tspan></text>
       </g>
     </g>
     <g
@@ -6680,7 +6748,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77509">I</tspan></text>
+           id="tspan8557">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-7-2-6-1"
@@ -6794,7 +6862,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77511">I</tspan></text>
+             id="tspan8559">I</tspan></text>
       </g>
     </g>
     <g
@@ -6831,7 +6899,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77513">I</tspan></text>
+           id="tspan8561">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79"
@@ -6945,7 +7013,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-8);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77515">I</tspan></text>
+             id="tspan8563">I</tspan></text>
       </g>
     </g>
     <g
@@ -6982,7 +7050,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77517">I</tspan></text>
+           id="tspan8565">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-1"
@@ -7047,37 +7115,6 @@
          xml:space="preserve"
          id="text1887-0-8-3-8"
          style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect1889-3-6-5-6);display:inline" />
-    </g>
-  </g>
-  <g
-     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:150000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     id="g330-7"
-     transform="translate(18281339,19443115)">
-    <path
-       d="m 10000000,110000000 h 2000000"
-       id="path328-7" />
-  </g>
-  <g
-     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:150000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     id="g374-9"
-     transform="translate(18281339,19443115)">
-    <text
-       x="11000000"
-       y="85650000"
-       textLength="1450000"
-       font-size="1.73333e+06px"
-       lengthAdjust="spacingAndGlyphs"
-       text-anchor="middle"
-       opacity="0"
-       id="text366-6">B</text>
-    <g
-       class="stroked-text"
-       id="g372-0">
-      <desc
-         id="desc368-1">B</desc>
-      <path
-         d="m 11092857,84907142 185714,61905 61905,61905 61904,123809 v 185715 l -61904,123809 -61905,61905 -123810,61905 h -495238 v -1300000 h 433334 l 123809,61905 61905,61904 61905,123810 v 123809 l -61905,123810 -61905,61905 -123809,61904 h -433334"
-         id="path370-2" />
     </g>
   </g>
   <g
@@ -7150,7 +7187,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-96);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77519">I</tspan></text>
+             id="tspan8567">I</tspan></text>
       </g>
     </g>
     <g
@@ -7187,7 +7224,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77521">I</tspan></text>
+           id="tspan8569">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-3"
@@ -7301,7 +7338,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-8-64);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77523">I</tspan></text>
+             id="tspan8571">I</tspan></text>
       </g>
     </g>
     <g
@@ -7338,7 +7375,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77525">I</tspan></text>
+           id="tspan8573">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-1-8"
@@ -7406,60 +7443,6 @@
     </g>
   </g>
   <g
-     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:150000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     id="g330-5"
-     transform="translate(43844105,64218592)">
-    <path
-       d="m 10000000,110000000 h 2000000"
-       id="path328-0" />
-  </g>
-  <g
-     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:150000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     id="g374-3"
-     transform="translate(43844105,64218592)">
-    <text
-       x="11000000"
-       y="85650000"
-       textLength="1450000"
-       font-size="1.73333e+06px"
-       lengthAdjust="spacingAndGlyphs"
-       text-anchor="middle"
-       opacity="0"
-       id="text366-7">B</text>
-    <g
-       class="stroked-text"
-       id="g372-3">
-      <desc
-         id="desc368-5">B</desc>
-      <path
-         d="m 11092857,84907142 185714,61905 61905,61905 61904,123809 v 185715 l -61904,123809 -61905,61905 -123810,61905 h -495238 v -1300000 h 433334 l 123809,61905 61905,61904 61905,123810 v 123809 l -61905,123810 -61905,61905 -123809,61904 h -433334"
-         id="path370-9" />
-    </g>
-  </g>
-  <g
-     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:150000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     id="g386-1"
-     transform="translate(43844105,64218592)">
-    <text
-       x="11000000"
-       y="135650000"
-       textLength="1450000"
-       font-size="1.73333e+06px"
-       lengthAdjust="spacingAndGlyphs"
-       text-anchor="middle"
-       opacity="0"
-       id="text378-8">C</text>
-    <g
-       class="stroked-text"
-       id="g384-4">
-      <desc
-         id="desc380-0">C</desc>
-      <path
-         d="m 11402380,135464290 -61904,61900 -185715,61910 h -123809 l -185714,-61910 -123810,-123810 -61905,-123810 -61904,-247620 v -185710 l 61904,-247620 61905,-123810 123810,-123810 185714,-61900 h 123809 l 185715,61900 61904,61900"
-         id="path382-8" />
-    </g>
-  </g>
-  <g
      id="g2417-7-8-4-9"
      transform="matrix(262700.26,0,0,262700.26,-64468885,150492710)">
     <g
@@ -7506,7 +7489,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-7);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77527">I</tspan></text>
+             id="tspan8575">I</tspan></text>
       </g>
     </g>
     <g
@@ -7543,7 +7526,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77529">I</tspan></text>
+           id="tspan8577">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-7"
@@ -7657,7 +7640,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-8-22);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77531">I</tspan></text>
+             id="tspan8579">I</tspan></text>
       </g>
     </g>
     <g
@@ -7694,7 +7677,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77533">I</tspan></text>
+           id="tspan8581">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-1-0"
@@ -7808,7 +7791,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77535">I</tspan></text>
+             id="tspan8583">I</tspan></text>
       </g>
     </g>
     <g
@@ -7845,7 +7828,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77537">I</tspan></text>
+           id="tspan8585">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5"
@@ -7959,7 +7942,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-8);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77539">I</tspan></text>
+             id="tspan8587">I</tspan></text>
       </g>
     </g>
     <g
@@ -7996,7 +7979,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77541">I</tspan></text>
+           id="tspan8589">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-4"
@@ -8110,7 +8093,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-2);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77543">I</tspan></text>
+             id="tspan8591">I</tspan></text>
       </g>
     </g>
     <g
@@ -8147,7 +8130,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77545">I</tspan></text>
+           id="tspan8593">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-6"
@@ -8261,7 +8244,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-8-4);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77547">I</tspan></text>
+             id="tspan8595">I</tspan></text>
       </g>
     </g>
     <g
@@ -8298,7 +8281,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77549">I</tspan></text>
+           id="tspan8597">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-4-1"
@@ -8412,7 +8395,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-6);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77551">I</tspan></text>
+             id="tspan8599">I</tspan></text>
       </g>
     </g>
     <g
@@ -8449,7 +8432,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77553">I</tspan></text>
+           id="tspan8601">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-5"
@@ -8563,7 +8546,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-8-9);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77555">I</tspan></text>
+             id="tspan8603">I</tspan></text>
       </g>
     </g>
     <g
@@ -8600,7 +8583,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77557">I</tspan></text>
+           id="tspan8605">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-4-4"
@@ -8714,7 +8697,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-27);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77559">I</tspan></text>
+             id="tspan8607">I</tspan></text>
       </g>
     </g>
     <g
@@ -8751,7 +8734,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77561">I</tspan></text>
+           id="tspan8609">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-3"
@@ -8865,7 +8848,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-21);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77563">I</tspan></text>
+             id="tspan8611">I</tspan></text>
       </g>
     </g>
     <g
@@ -8902,7 +8885,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77565">I</tspan></text>
+           id="tspan8613">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-7"
@@ -9016,7 +8999,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-27-5);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77567">I</tspan></text>
+             id="tspan8615">I</tspan></text>
       </g>
     </g>
     <g
@@ -9053,7 +9036,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77569">I</tspan></text>
+           id="tspan8617">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-3-8"
@@ -9167,7 +9150,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-21-4);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77571">I</tspan></text>
+             id="tspan8619">I</tspan></text>
       </g>
     </g>
     <g
@@ -9204,7 +9187,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77573">I</tspan></text>
+           id="tspan8621">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-7-4"
@@ -9318,7 +9301,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-27-0);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77575">I</tspan></text>
+             id="tspan8623">I</tspan></text>
       </g>
     </g>
     <g
@@ -9355,7 +9338,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77577">I</tspan></text>
+           id="tspan8625">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-3-5"
@@ -9469,7 +9452,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-21-9);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77579">I</tspan></text>
+             id="tspan8627">I</tspan></text>
       </g>
     </g>
     <g
@@ -9506,7 +9489,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77581">I</tspan></text>
+           id="tspan8629">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-7-6"
@@ -9620,7 +9603,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-27-7);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77583">I</tspan></text>
+             id="tspan8631">I</tspan></text>
       </g>
     </g>
     <g
@@ -9657,7 +9640,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77585">I</tspan></text>
+           id="tspan8633">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-3-6"
@@ -9771,7 +9754,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-27-7-4);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77587">I</tspan></text>
+             id="tspan8635">I</tspan></text>
       </g>
     </g>
     <g
@@ -9808,7 +9791,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77589">I</tspan></text>
+           id="tspan8637">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-3-6-2"
@@ -9922,7 +9905,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-27-7-6);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77591">I</tspan></text>
+             id="tspan8639">I</tspan></text>
       </g>
     </g>
     <g
@@ -9959,7 +9942,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77593">I</tspan></text>
+           id="tspan8641">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-3-6-3"
@@ -10052,8 +10035,8 @@
     <g
        id="layer2-8-8-6-8-4-1-7-3"
        inkscape:label="N"
-       style="opacity:1"
-       transform="matrix(0.97307716,0,0,0.97307716,-194.19202,-8.6670057)">
+       transform="matrix(0.97307716,0,0,0.97307716,-194.19202,-8.6670057)"
+       style="opacity:1">
       <g
          id="g1047-7-7-7-3-2-7-3-5"
          transform="translate(100.00001)">
@@ -10073,14 +10056,14 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-27-7-4-2);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77595">I</tspan></text>
+             id="tspan8643">I</tspan></text>
       </g>
     </g>
     <g
        id="layer3-8-1-0-8-92-5-7-8"
        inkscape:label="K"
-       style="opacity:1"
-       transform="matrix(0.97307716,0,0,0.97307716,-194.19202,-8.6670057)">
+       transform="matrix(0.97307716,0,0,0.97307716,-194.19202,-8.6670057)"
+       style="opacity:1">
       <g
          id="g1619-5-1-8-9-62-92-5-5"
          transform="translate(200.00001)">
@@ -10110,7 +10093,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77597">I</tspan></text>
+           id="tspan8645">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-3-6-2-7"
@@ -10178,6 +10161,11 @@
     </g>
   </g>
   <g
+     id="layer5-1-8-6-8-2-5-8-3-2"
+     inkscape:label="NEW"
+     style="display:inline"
+     transform="matrix(262700.26,0,0,262700.26,-617509630,-2681982.6)" />
+  <g
      id="g2417-7-8-4-18-3-7-7"
      transform="matrix(262700.26,0,0,262700.26,-609508480,156842770)">
     <g
@@ -10224,7 +10212,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-27-7-3);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77599">I</tspan></text>
+             id="tspan8647">I</tspan></text>
       </g>
     </g>
     <g
@@ -10261,7 +10249,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77601">I</tspan></text>
+           id="tspan8649">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-3-6-7"
@@ -10375,7 +10363,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-27-7-4-21);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77603">I</tspan></text>
+             id="tspan8651">I</tspan></text>
       </g>
     </g>
     <g
@@ -10412,7 +10400,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77605">I</tspan></text>
+           id="tspan8653">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-3-6-2-8"
@@ -10662,7 +10650,7 @@
            style="font-size:14px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect868-5-5-1-6-3);display:inline"><tspan
              x="43"
              y="50.064403"
-             id="tspan77607">I</tspan></text>
+             id="tspan8655">I</tspan></text>
       </g>
     </g>
     <g
@@ -10699,7 +10687,7 @@
          transform="matrix(3.9199098,0,0,3.9325843,-905.72555,-123.92811)"><tspan
            x="244.5"
            y="53.814006"
-           id="tspan77609">I</tspan></text>
+           id="tspan8657">I</tspan></text>
     </g>
     <g
        id="layer4-6-9-79-5-8"
@@ -10768,60 +10756,84 @@
   </g>
   <text
      xml:space="preserve"
-     transform="matrix(264583.33,0,0,264583.33,129362.32,-1307335.1)"
+     transform="matrix(264583.33,0,0,264583.33,-300631.5,974700.56)"
      id="text55002"
      style="font-size:52.5px;line-height:1.15;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect55004);display:inline"><tspan
        x="239.35156"
        y="280.54278"
-       id="tspan77613"><tspan
-         style="font-family:AkzidenzGrotesk;-inkscape-font-specification:AkzidenzGrotesk"
-         id="tspan77611">34 Street-Penn Station•Utica Avenue•
-</tspan></tspan><tspan
+       id="tspan8659">34 Street-Penn Station•Utica Avenue•
+</tspan><tspan
        x="239.35156"
-       y="343.78442"
-       id="tspan77617"><tspan
-         style="font-family:AkzidenzGrotesk;-inkscape-font-specification:AkzidenzGrotesk"
-         id="tspan77615">81 St-Museum of natural history•59 St•
-</tspan></tspan><tspan
+       y="340.91778"
+       id="tspan8661">81 St-Museum of natural history•59 St•
+</tspan><tspan
        x="239.35156"
-       y="407.02606"
-       id="tspan77621"><tspan
-         style="font-family:AkzidenzGrotesk;-inkscape-font-specification:AkzidenzGrotesk"
-         id="tspan77619">47-50 Sts Rockefeller Center•
-</tspan></tspan><tspan
+       y="401.29278"
+       id="tspan8663">47-50 Sts Rockefeller Center•
+</tspan><tspan
        x="239.35156"
-       y="470.2677"
-       id="tspan77625"><tspan
-         style="font-family:AkzidenzGrotesk;-inkscape-font-specification:AkzidenzGrotesk"
-         id="tspan77623">Lexington Av-63 Street•96 Street•34 St-herald Sq•
-</tspan></tspan><tspan
+       y="461.66778"
+       id="tspan8665">Lexington Av-63 Street•96 Street•34 St-herald Sq•
+</tspan><tspan
        x="239.35156"
-       y="533.50933"
-       id="tspan77629"><tspan
-         style="font-family:AkzidenzGrotesk;-inkscape-font-specification:AkzidenzGrotesk"
-         id="tspan77627">West 4 Street•Fulton Street•Bedford Pk Blvd• </tspan></tspan><tspan
+       y="522.04278"
+       id="tspan8667">West 4 Street•Fulton Street•Bedford Pk Blvd• </tspan><tspan
        x="239.35156"
-       y="596.75097"
-       id="tspan77633"><tspan
-         style="font-family:AkzidenzGrotesk;-inkscape-font-specification:AkzidenzGrotesk"
-         id="tspan77631">Queens Plaza•33 St-Rawson St•Times Sq-42 St•
-</tspan></tspan><tspan
+       y="582.41778"
+       id="tspan8669">Queens Plaza•33 St-Rawson St•Times Sq-42 St•
+</tspan><tspan
        x="239.35156"
-       y="659.99261"
-       id="tspan77637"><tspan
-         style="font-family:AkzidenzGrotesk;-inkscape-font-specification:AkzidenzGrotesk"
-         id="tspan77635">42 St-Port Authority Bus Terminal•
-</tspan></tspan><tspan
+       y="642.79278"
+       id="tspan8671">42 St-Port Authority Bus Terminal•
+</tspan><tspan
        x="239.35156"
-       y="723.23425"
-       id="tspan77641"><tspan
-         style="font-family:AkzidenzGrotesk;-inkscape-font-specification:AkzidenzGrotesk"
-         id="tspan77639">110 St-Cathedral Pkwy•181 St•
-</tspan></tspan><tspan
+       y="703.16778"
+       id="tspan8673">110 St-Cathedral Pkwy•181 St•
+</tspan><tspan
        x="239.35156"
-       y="786.47589"
-       id="tspan77645"><tspan
-         style="font-family:AkzidenzGrotesk;-inkscape-font-specification:AkzidenzGrotesk"
-         id="tspan77643">42 St•Grand Central-42 St•
-</tspan></tspan></text>
+       y="763.54278"
+       id="tspan8675">42 St•Grand Central-42 St•
+</tspan></text>
+  <text
+     xml:space="preserve"
+     transform="scale(264583.33)"
+     id="text5693"
+     style="line-height:1.25;font-family:Helvetica;font-size:28px;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect5695)" />
+  <circle
+     cx="56513968"
+     cy="71349440"
+     fill="#fccc0a"
+     id="circle12-1-1-0-5-46-9-7-1-2-90-7"
+     style="stroke-width:137278"
+     r="6863869" />
+  <circle
+     cx="97380528"
+     cy="232276976"
+     fill="#fccc0a"
+     id="circle12-1-1-0-5-46-9-7-1-2-90-7-4"
+     style="stroke-width:104713"
+     r="5235623" />
+  <circle
+     cx="44513560"
+     cy="71349440"
+     fill="#fccc0a"
+     id="circle12-1-1-0-5-46-9-7-1-2-90-7-4-9"
+     style="stroke-width:104713"
+     r="5235623" />
+  <text
+     xml:space="preserve"
+     transform="scale(264583.33)"
+     id="text6110"
+     style="line-height:1.25;font-family:Helvetica;font-size:28px;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect6112)" />
+  <text
+     xml:space="preserve"
+     style="font-size:1.41552e+07px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:264583"
+     x="102159984"
+     y="237229216"
+     id="text6118"><tspan
+       sodipodi:role="line"
+       id="tspan6116"
+       style="font-size:1.41552e+07px;stroke-width:264583"
+       x="102159984"
+       y="237229216">sTdsad</tspan></text>
 </svg>
